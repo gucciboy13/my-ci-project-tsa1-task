@@ -4,15 +4,18 @@
     <title>About</title>
 </head>
 <body>
-    <h1>About Our POS System</h1>
-
-    <p>This system will manage customer accounts and user accounts.</p>
+    <h1>About This System</h1>
 
     <nav>
-        <a href="/">Home</a> |
-        <a href="/about">About</a> |
-        <a href="/customers">Customers</a> |
-        <a href="/users">Users</a>
+        <a href="/">Today</a> |
+        <a href="/tasks">All Tasks</a> |
+        <a href="/profile">Profile</a> |
+        <a href="/about">About</a>
     </nav>
+
+    <hr>
+
+    <p>This Tasks for Today Management System was developed by Anthony Gabrielle Hermoso.</p>
+    <p>This application was created using PHP, CodeIgniter 4, and MySQL.</p>
 </body>
 </html>
